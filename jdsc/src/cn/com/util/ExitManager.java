@@ -9,9 +9,9 @@ import android.app.Application;
 public class ExitManager extends Application{
 	private List<Activity> activityList=new LinkedList<Activity>();
 	   private static ExitManager instance;
-//	   的省发改委的规范
+//	   碌脛脢隆路垄赂脛脦炉碌脛鹿忙路露
 	   private ExitManager(){
-//		   人多
+//		   脠脣露脿
 	   }
 	   public static ExitManager getInstance(){
 		   if (instance==null) {
@@ -33,5 +33,8 @@ public class ExitManager extends Application{
 			   android.os.Process
 				.killProcess(id);
 		   }
+	   }
+	   public void kdjdjd(){
+	   	
 	   }
 }
