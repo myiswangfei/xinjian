@@ -35,6 +35,8 @@ public class ExitManager extends Application{
 		   }
 	   }
 	   public void kdjdjd(){
-	   	
+	   	// asdjfh lkasjdf lkajsd fkb 
+	   	// klj困了就睡的疯狂了敬爱卡松岛枫
+	   	// 上课京东方老家狮峰龙井爱妃
 	   }
 }
