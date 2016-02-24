@@ -9,7 +9,7 @@ import android.app.Application;
 public class ExitManager extends Application{
 	private List<Activity> activityList=new LinkedList<Activity>();
 	   private static ExitManager instance;
-//	   µÄÊ¡·¢¸ÄÎ¯µÄ¹æ·¶
+//	   我不是乱码呢
 	   private ExitManager(){
 //		   ÈË¶à
 	   }
@@ -35,6 +35,6 @@ public class ExitManager extends Application{
 		   }
 	   }
 	   public void kdjdjd(){
-	   	// dfsdfsdfdfdf
+	   	
 	   }
 }
