@@ -10,6 +10,9 @@ public class FragmentAdapter extends FragmentPagerAdapter{
 		super(fm);
 	}
 
+	
+//	爱上了可敬的合肥奥斯卡京东方拉斯科京东方林肯郡 林肯郡的绿卡减肥的阿卡洛杉矶的分 
+	
 	@Override
 	public Fragment getItem(int id) {
 		switch (id) {
