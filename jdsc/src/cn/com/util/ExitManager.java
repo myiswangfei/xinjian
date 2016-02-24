@@ -9,9 +9,9 @@ import android.app.Application;
 public class ExitManager extends Application{
 	private List<Activity> activityList=new LinkedList<Activity>();
 	   private static ExitManager instance;
-	   
+//	   的省发改委的规范
 	   private ExitManager(){
-		   
+//		   人多
 	   }
 	   public static ExitManager getInstance(){
 		   if (instance==null) {
